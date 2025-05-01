@@ -1,6 +1,10 @@
-**Code**: <a href="https://github.com/kamilszczepanik/apple-calculator" target="_blank">https://github.com/kamilszczepanik/apple-calculator</a>
-**Year**: 2025
-**Timespan**: 8 hours
+---
+
+- **Code**: <a href="https://github.com/kamilszczepanik/apple-calculator" target="_blank">https://github.com/kamilszczepanik/apple-calculator</a>
+- **Year**: 2025
+- **Timespan**: 8 hours
+
+---
 
 ## Overview
 
